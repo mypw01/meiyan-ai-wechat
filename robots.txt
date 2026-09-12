@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mypw01.github.io/meiyan-ai-wechat/sitemap.xml
